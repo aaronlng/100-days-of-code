@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-## Day 1: November 18, 2019
+## Day 1: November 19, 2019
 
 **Today's Progress**:
 
@@ -10,7 +10,7 @@
 
 <!-- BLANK TEMPLATE
 
-## Day 1: November 18, 2019
+## Day 1: November 19, 2019
 
 **Today's Progress**:
 

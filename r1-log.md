@@ -1,6 +1,6 @@
-# #100DaysOfCode Log - Round 1 - [Aaron Long]
+# #100DaysOfCode Log - Round 1 - Aaron Long
 
-The log of my #100DaysOfCode challenge, started on Monday, November 18, 2019.
+The log of my #100DaysOfCode challenge, started on Tuesday, November 19, 2019.
 
 ## Log
 
