@@ -2,11 +2,11 @@
 
 ## Day 1: November 19, 2019
 
-**Today's Progress**:
+**Today's Progress**: Built the HTML page for the tribute-page project utilizing HTML5 elements. Began styling with CSS. Will be implementing CSS grid and final styling tomorrow.
 
-**Thoughts:**
+**Thoughts:** Slowly figuring out how to properly use all of the HTML5 elements to get the most out of my pages.
 
-**Link to work:**
+**Link to work:** [Tribute Page](https://www.aaronlng.dev/tribute-page/)
 
 <!-- BLANK TEMPLATE
 
