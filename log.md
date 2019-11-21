@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 2: November 20, 2019
+
+**Today's Progress**: Added styling to the Tribute Page utilizing CSS Grid. 
+
+**Thoughts:** Beginning to get the hang of utilizing the grid and customization of design.
+
+**Link to work:** [Tribute Page](https://www.aaronlng.dev/tribute-page/)
+
 ## Day 1: November 19, 2019
 
 **Today's Progress**: Built the HTML page for the tribute-page project utilizing HTML5 elements. Began styling with CSS. Will be implementing CSS grid and final styling tomorrow.
