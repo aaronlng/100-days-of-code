@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 3: November 21, 2019
+
+**Today's Progress**: Added more styling to the Tribute Page. Created repo and started next project: Survey Form.
+
+**Thoughts:** Researching how to properly set up form in HTML5 and learning validation.
+
+**Link to work:** [Survey Form](https://www.aaronlng.dev/survey-form/)
+
 ## Day 2: November 20, 2019
 
 **Today's Progress**: Added styling to the Tribute Page utilizing CSS Grid. 
