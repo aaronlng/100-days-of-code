@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 5: November 23, 2019
+
+**Today's Progress**: Created form and form elements. Learned about different form elements, attributes, and correct syntax for building quality forms in HTML5.
+
+**Thoughts:** Very descriptive in naming labels and forms to keep track of what you are setting up. Easy to get lost in naming conventions.
+
+**Link to work:** [Survey Form](https://www.aaronlng.dev/survey-form/)
+
 ## Day 4: November 22, 2019
 
 **Today's Progress**: Watched in depth talk on CSS grid. Updated tribute page styling.

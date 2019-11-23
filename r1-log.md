@@ -4,6 +4,10 @@ The log of my #100DaysOfCode challenge, started on Tuesday, November 19, 2019.
 
 ## Log
 
+### R1D5
+
+Created form and form elements. Learned about different form elements, attributes, and correct syntax for building quality forms in HTML5.
+
 ### R1D4
 
 Watched in depth talk about CSS grid. Updated grid styling on Tribute Page.
