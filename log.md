@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 4: November 22, 2019
+
+**Today's Progress**: Watched in depth talk on CSS grid. Updated tribute page styling.
+
+**Thoughts:** Grid area template makes for very flexible and responsive designing.
+
+**Link to work:** [Tribute Page](https://www.aaronlng.dev/tribute-page/)
+
 ## Day 3: November 21, 2019
 
 **Today's Progress**: Added more styling to the Tribute Page. Created repo and started next project: Survey Form.
