@@ -4,6 +4,10 @@ The log of my #100DaysOfCode challenge, started on Tuesday, November 19, 2019.
 
 ## Log
 
+### R1D4
+
+Watched in depth talk about CSS grid. Updated grid styling on Tribute Page.
+
 ### R1D3
 
 Added more styling to the Tribute Page. Set up repo and began project #2: Survey Form. [Survey Form](https://www.aaronlng.dev/survey-form/)
