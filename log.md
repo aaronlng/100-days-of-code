@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 6: November 24, 2019
+
+**Today's Progress**: Finished user stories for functionality purposes in Survey Form (excluding validation). Will dive into styling and validation tomorrow.
+
+**Thoughts:** N/A
+
+**Link to work:** [Survey Form](https://www.aaronlng.dev/survey-form/)
+
 ## Day 5: November 23, 2019
 
 **Today's Progress**: Created form and form elements. Learned about different form elements, attributes, and correct syntax for building quality forms in HTML5.

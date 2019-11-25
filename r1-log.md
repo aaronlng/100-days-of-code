@@ -4,6 +4,10 @@ The log of my #100DaysOfCode challenge, started on Tuesday, November 19, 2019.
 
 ## Log
 
+### R1D6
+
+Finished user stories for functionality purposes in Survey Form (excluding validation). Will dive into styling and validation tomorrow.
+
 ### R1D5
 
 Created form and form elements. Learned about different form elements, attributes, and correct syntax for building quality forms in HTML5.
