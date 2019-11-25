@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 7: November 25, 2019
+
+**Today's Progress**: Went back to tribute page and applied what I learned from the video a few days ago to create media queries for mobile responsiveness and different layouts between screen sizes using CSS Grid.
+
+**Thoughts:** Took longer than I expected to really grasp media queries and setting them up correctly.
+
+**Link to work:** [Tribute Page](https://www.aaronlng.dev/tribute-page/)
+
 ## Day 6: November 24, 2019
 
 **Today's Progress**: Finished user stories for functionality purposes in Survey Form (excluding validation). Will dive into styling and validation tomorrow.

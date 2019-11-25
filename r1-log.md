@@ -4,6 +4,10 @@ The log of my #100DaysOfCode challenge, started on Tuesday, November 19, 2019.
 
 ## Log
 
+### R1D7
+
+Went back to tribute page and applied what I learned from the video a few days ago to create media queries for mobile responsiveness and different layouts between screen sizes using CSS Grid.
+
 ### R1D6
 
 Finished user stories for functionality purposes in Survey Form (excluding validation). Will dive into styling and validation tomorrow.
