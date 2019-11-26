@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 8: November 26, 2019
+
+**Today's Progress**: Styled the survey page utilizing CSS grid and created mobile responsiveness. Dove deeper into forms and grouping with fieldset element.
+
+**Thoughts:** Still need to dive deeper into styling of the form, but passes all user stories.
+
+**Link to work:** [Survey Form](https://www.aaronlng.dev/survey-form/)
+
 ## Day 7: November 25, 2019
 
 **Today's Progress**: Went back to tribute page and applied what I learned from the video a few days ago to create media queries for mobile responsiveness and different layouts between screen sizes using CSS Grid.
@@ -42,7 +50,7 @@
 
 ## Day 2: November 20, 2019
 
-**Today's Progress**: Added styling to the Tribute Page utilizing CSS Grid. 
+**Today's Progress**: Added styling to the Tribute Page utilizing CSS Grid.
 
 **Thoughts:** Beginning to get the hang of utilizing the grid and customization of design.
 
