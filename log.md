@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 9: November 27, 2019
+
+**Today's Progress**: Created structure for the next project: Product landing page. Implemented CSS grid styling to lay out sections.
+
+**Thoughts:**Starting to completely understand CSS grid. Site does not look like much at the moment.
+
+**Link to work:** [Product Landing Page](https://www.aaronlng.dev/product-landing-page/)
+
 ## Day 8: November 26, 2019
 
 **Today's Progress**: Styled the survey page utilizing CSS grid and created mobile responsiveness. Dove deeper into forms and grouping with fieldset element.

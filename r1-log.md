@@ -4,6 +4,10 @@ The log of my #100DaysOfCode challenge, started on Tuesday, November 19, 2019.
 
 ## Log
 
+### R1D9
+
+Created structure for the next project: Product landing page. Implemented CSS grid styling to lay out sections.
+
 ### R1D8
 
 Styled the survey page utilizing CSS grid and created mobile responsiveness. Dove deeper into forms and grouping with fieldset element.
