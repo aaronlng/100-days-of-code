@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 10: November 28, 2019
+
+**Today's Progress**: Updated grid and styling for mobile responsiveness and began styling nav bar.
+
+**Thoughts:**Really trying to focus on speeding up my coding as I've noticed not getting too far in the amount of time I'm working.
+
+**Link to work:** [Product Landing Page](https://www.aaronlng.dev/product-landing-page/)
+
 ## Day 9: November 27, 2019
 
 **Today's Progress**: Created structure for the next project: Product landing page. Implemented CSS grid styling to lay out sections.
