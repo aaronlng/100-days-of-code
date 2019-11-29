@@ -4,6 +4,10 @@ The log of my #100DaysOfCode challenge, started on Tuesday, November 19, 2019.
 
 ## Log
 
+### R1D11
+
+Focused today on styling sections and specifically styling buttons using plain CSS.
+
 ### R1D10
 
 Updated grid and styling for mobile responsiveness and began styling nav bar.

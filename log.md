@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 11: November 29, 2019
+
+**Today's Progress**: Focused today on styling sections and specifically styling buttons using plain CSS.
+
+**Thoughts:**Still working on speeding up my coding.
+
+**Link to work:** [Product Landing Page](https://www.aaronlng.dev/product-landing-page/)
+
 ## Day 10: November 28, 2019
 
 **Today's Progress**: Updated grid and styling for mobile responsiveness and began styling nav bar.
