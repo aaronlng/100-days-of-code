@@ -4,6 +4,10 @@ The log of my #100DaysOfCode challenge, started on Tuesday, November 19, 2019.
 
 ## Log
 
+### R1D12
+
+Set up repo for technical documentation page. Updated README file with user stories and set up index.html file.
+
 ### R1D11
 
 Focused today on styling sections and specifically styling buttons using plain CSS.
