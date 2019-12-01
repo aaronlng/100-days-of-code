@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 12: November 30, 2019
+
+**Today's Progress**: Set up repo for technical documentation page. Updated README file with user stories and set up index.html file.
+
+**Thoughts:** Still working on speeding up my coding.
+
+**Link to work:** [Technical Documentation Page](https://www.aaronlng.dev/technical-documentation-page/)
+
 ## Day 11: November 29, 2019
 
 **Today's Progress**: Focused today on styling sections and specifically styling buttons using plain CSS.
