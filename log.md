@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 13: December 2, 2019
+
+**Today's Progress**: Worked on styling and spacing in the product page project. Particularly focusing on mobile design.
+
+**Thoughts:** Working on implementing a flexbox section with the CSS grid in place. Need to update desktop styling as well to keep up with consistency of Mobile design.
+
+**Link to work:** [Product Landing Page](https://www.aaronlng.dev/product-landing-page/)
+
 ## Day 12: November 30, 2019
 
 **Today's Progress**: Set up repo for technical documentation page. Updated README file with user stories and set up index.html file.
