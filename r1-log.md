@@ -4,6 +4,10 @@ The log of my #100DaysOfCode challenge, started on Tuesday, November 19, 2019.
 
 ## Log
 
+### R1D14
+
+Updated styling of Landing Page project. Mobile and desktop versions set. On to the next project tomorrow.
+
 ### R1D13
 
 Worked on styling and spacing in the product page project. Particularly focusing on mobile design. Need to work on implementing a flexbox section with the CSS grid in place. Need to update desktop styling as well to keep up with consistency of Mobile design.

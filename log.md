@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 14: December 3, 2019
+
+**Today's Progress**: Updated styling of Landing Page project. Mobile and desktop versions set. On to the next project tomorrow.
+
+**Thoughts:** Still fine tuning to be done in CSS but must keep moving to complete more projects.
+
+**Link to work:** [Product Landing Page](https://www.aaronlng.dev/product-landing-page/)
+
 ## Day 13: December 2, 2019
 
 **Today's Progress**: Worked on styling and spacing in the product page project. Particularly focusing on mobile design.
