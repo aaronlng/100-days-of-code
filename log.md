@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 15: December 4, 2019
+
+**Today's Progress**: Began implementing structure for Technical Documentation page. Attempting to learn the basics of C# while compiling the technical documentation. Continue adding on to it tomorrow.
+
+**Thoughts:**N/A
+
+**Link to work:** [Technical Documentation Page](https://www.aaronlng.dev/technical-documentation-page/)
+
 ## Day 14: December 3, 2019
 
 **Today's Progress**: Updated styling of Landing Page project. Mobile and desktop versions set. On to the next project tomorrow.

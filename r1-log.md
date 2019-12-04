@@ -4,6 +4,10 @@ The log of my #100DaysOfCode challenge, started on Tuesday, November 19, 2019.
 
 ## Log
 
+### R1D15
+
+Began implementing structure for Technical Documentation page. Attempting to learn the basics of C# while compiling the technical documentation. Continue adding on to it tomorrow.
+
 ### R1D14
 
 Updated styling of Landing Page project. Mobile and desktop versions set. On to the next project tomorrow.
