@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 16: December 5, 2019
+
+**Today's Progress**: Continued adding to the technical documentation page project. Learned basic `Hello World!` in C# while doing project.
+
+**Thoughts:**Ready to dive into styling the technical documentation page.
+
+**Link to work:** [Technical Documentation Page](https://www.aaronlng.dev/technical-documentation-page/)
+
 ## Day 15: December 4, 2019
 
 **Today's Progress**: Began implementing structure for Technical Documentation page. Attempting to learn the basics of C# while compiling the technical documentation. Continue adding on to it tomorrow.

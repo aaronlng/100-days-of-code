@@ -4,6 +4,10 @@ The log of my #100DaysOfCode challenge, started on Tuesday, November 19, 2019.
 
 ## Log
 
+### R1D16
+
+Continued adding to the technical documentation page project. Learned basic `Hello World!` in C# while doing project.
+
 ### R1D15
 
 Began implementing structure for Technical Documentation page. Attempting to learn the basics of C# while compiling the technical documentation. Continue adding on to it tomorrow.
