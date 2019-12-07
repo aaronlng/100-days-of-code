@@ -4,6 +4,10 @@ The log of my #100DaysOfCode challenge, started on Tuesday, November 19, 2019.
 
 ## Log
 
+### R1D17
+
+Worked more on styling the technical documentation page. Also began working on personal portfolio which is the last of the responsive design projects.
+
 ### R1D16
 
 Continued adding to the technical documentation page project. Learned basic `Hello World!` in C# while doing project.
