@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 18: December 7, 2019
+
+**Today's Progress**: Completed all required user stories for the Technical Documentation project. Began working on adjusting current personal portfolio to meet user stories for last responsive web design project.
+
+**Thoughts:**N/A
+
+**Link to work:** [Technical Documentation Page](https://www.aaronlng.dev/technical-documentation-page/)
+
 ## Day 17: December 6, 2019
 
 **Today's Progress**: Worked more on styling the technical documentation page. Also began working on personal portfolio which is the last of the responsive design projects.

@@ -4,6 +4,10 @@ The log of my #100DaysOfCode challenge, started on Tuesday, November 19, 2019.
 
 ## Log
 
+### R1D18
+
+Completed all required user stories for the Technical Documentation project. Began working on adjusting current personal portfolio to meet user stories for last responsive web design project.
+
 ### R1D17
 
 Worked more on styling the technical documentation page. Also began working on personal portfolio which is the last of the responsive design projects.
