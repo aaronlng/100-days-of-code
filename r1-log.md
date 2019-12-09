@@ -4,6 +4,10 @@ The log of my #100DaysOfCode challenge, started on Tuesday, November 19, 2019.
 
 ## Log
 
+### R1D20
+
+Created repo and set up structure for personal portfolio. Did some research on portfolio designs for inspiration. Completed ES6 lessons on freeCodeCamp.
+
 ### R1D19
 
 Reviewed all responsive web design projects and updated styling for all. Will be adding to personal portfolio tomorrow.

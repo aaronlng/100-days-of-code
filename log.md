@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 20: December 9, 2019
+
+**Today's Progress**: Created repo and set up structure for personal portfolio. Did some research on portfolio designs for inspiration. Completed ES6 lessons on freeCodeCamp.
+
+**Thoughts:**Begin working through JavaScript certification lessons and working on those projects tomorrow. Continue to develop and refine portfolio.
+
+**Link to work:** [Responsive Web Design Collection](https://codepen.io/collection/nRLOLk/)
+
 ## Day 19: December 8, 2019
 
 **Today's Progress**: Reviewed all responsive web design projects and updated styling for all. Will be adding to personal portfolio tomorrow.
