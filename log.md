@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 19: December 8, 2019
+
+**Today's Progress**: Reviewed all responsive web design projects and updated styling for all. Will be adding to personal portfolio tomorrow.
+
+**Thoughts:**N/A
+
+**Link to work:** [Responsive Web Design Collection](https://codepen.io/collection/nRLOLk/)
+
 ## Day 18: December 7, 2019
 
 **Today's Progress**: Completed all required user stories for the Technical Documentation project. Began working on adjusting current personal portfolio to meet user stories for last responsive web design project.
