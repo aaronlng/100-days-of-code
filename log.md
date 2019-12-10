@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 21: December 10, 2019
+
+**Today's Progress**: Updated personal portfolio project to meet all user story requirements. Updated resume and created development branch for live personal portfolio.
+
+**Thoughts:**Need to go back and polish up all of the responsive web design projects as they meet requirements but I am not happy with the quality of where they are at for advertising my skills.
+
+**Link to work:** [Responsive Web Design Collection](https://codepen.io/collection/nRLOLk/)
+
 ## Day 20: December 9, 2019
 
 **Today's Progress**: Created repo and set up structure for personal portfolio. Did some research on portfolio designs for inspiration. Completed ES6 lessons on freeCodeCamp.
