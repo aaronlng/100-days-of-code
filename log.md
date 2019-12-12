@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 23: December 12, 2019
+
+**Today's Progress**: Worked heavily on polishing tribute page. Gained a deeper understanding of pseudo-classes in CSS.
+
+**Thoughts:**N/A
+
+**Link to work:** [Tribute Page](https://www.aaronlng.dev/tribute-page/)
+
 ## Day 22: December 11, 2019
 
 **Today's Progress**: Went back and rediscovered some styling concepts in the CSS lessons. Played around with linear-gradient background and creating shapes with CSS. Updated a couple things on Tribute Page Project.

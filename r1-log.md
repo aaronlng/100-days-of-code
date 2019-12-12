@@ -4,6 +4,10 @@ The log of my #100DaysOfCode challenge, started on Tuesday, November 19, 2019.
 
 ## Log
 
+### R1D23
+
+Worked heavily on polishing tribute page. Gained a deeper understanding of pseudo-classes in CSS.
+
 ### R1D22
 
 Went back and rediscovered some styling concepts in the CSS lessons. Played around with linear-gradient background and creating shapes with CSS. Updated a couple things on Tribute Page Project.
