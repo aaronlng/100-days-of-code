@@ -4,6 +4,10 @@ The log of my #100DaysOfCode challenge, started on Tuesday, November 19, 2019.
 
 ## Log
 
+### R1D22
+
+Went back and rediscovered some styling concepts in the CSS lessons. Played around with linear-gradient background and creating shapes with CSS. Updated a couple things on Tribute Page Project.
+
 ### R1D21
 
 Updated personal portfolio project to meet all user story requirements. Updated resume and created development branch for live personal portfolio.

@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 22: December 11, 2019
+
+**Today's Progress**: Went back and rediscovered some styling concepts in the CSS lessons. Played around with linear-gradient background and creating shapes with CSS. Updated a couple things on Tribute Page Project.
+
+**Thoughts:**Spent most of day applying to jobs. Need to balance coding and applying to continue developing skills.
+
+**Link to work:** [Responsive Web Design Collection](https://codepen.io/collection/nRLOLk/)
+
 ## Day 21: December 10, 2019
 
 **Today's Progress**: Updated personal portfolio project to meet all user story requirements. Updated resume and created development branch for live personal portfolio.
