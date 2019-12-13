@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 24: December 13, 2019
+
+**Today's Progress**: Updated minor things on survey form. Spent most of my time going through exercises on freeCodeCamp for JavaScript module.
+
+**Thoughts:**N/A
+
+**Link to work:** [Survey Form](https://www.aaronlng.dev/survey-form/)
+
 ## Day 23: December 12, 2019
 
 **Today's Progress**: Worked heavily on polishing tribute page. Gained a deeper understanding of pseudo-classes in CSS.
