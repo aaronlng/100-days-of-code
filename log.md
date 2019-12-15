@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 25: December 14, 2019
+
+**Today's Progress**: Continuing to style and polish the survey form project. Updated background image and input fields.
+
+**Thoughts:**Create sub grids so that labels and inputs line up for mobile styling.
+
+**Link to work:** [Survey Form](https://www.aaronlng.dev/survey-form/)
+
 ## Day 24: December 13, 2019
 
 **Today's Progress**: Updated minor things on survey form. Spent most of my time going through exercises on freeCodeCamp for JavaScript module.

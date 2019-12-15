@@ -4,6 +4,10 @@ The log of my #100DaysOfCode challenge, started on Tuesday, November 19, 2019.
 
 ## Log
 
+### R1D25
+
+Continuing to style and polish the survey form project. Updated background image and input fields.
+
 ### R1D24
 
 Updated minor things on survey form. Spent most of my time going through exercises on freeCodeCamp for JavaScript module.
