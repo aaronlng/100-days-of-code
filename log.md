@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 26: December 15, 2019
+
+**Today's Progress**: Reworked the survey form in order to create a better grid for mobile. Did a few more JavaScript exercises on freeCodeCamp.
+
+**Thoughts:**N/A
+
+**Link to work:** [Survey Form](https://www.aaronlng.dev/survey-form/)
+
 ## Day 25: December 14, 2019
 
 **Today's Progress**: Continuing to style and polish the survey form project. Updated background image and input fields.

@@ -4,6 +4,10 @@ The log of my #100DaysOfCode challenge, started on Tuesday, November 19, 2019.
 
 ## Log
 
+### R1D26
+
+Reworked the survey form in order to create a better grid for mobile. Did a few more JavaScript exercises on freeCodeCamp.
+
 ### R1D25
 
 Continuing to style and polish the survey form project. Updated background image and input fields.
