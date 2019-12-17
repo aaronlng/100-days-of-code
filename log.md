@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 27: December 16, 2019
+
+**Today's Progress**: Finished polishing off Survey Form project. Began reworking personal portfolio incorporating CSS grid.
+
+**Thoughts:**Need to dive deeper into JavaScript exercises and continue to upgrade personal portfolio. Also finish polishing off responsive web design projects.
+
+**Link to work:** [Survey Form](https://www.aaronlng.dev/survey-form/)
+
 ## Day 26: December 15, 2019
 
 **Today's Progress**: Reworked the survey form in order to create a better grid for mobile. Did a few more JavaScript exercises on freeCodeCamp.
