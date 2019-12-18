@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 28: December 17, 2019
+
+**Today's Progress**: Continued working on personal portfolio. Updated small elements on technical documentation project.
+
+**Thoughts:**Spent a lot of time on personal portfolio with not a lot of progress. Frustrated at not being able to solve simple design issues.
+
+**Link to work:** [Technical Documentation Page](https://www.aaronlng.dev/technical-documentation-page/)
+
 ## Day 27: December 16, 2019
 
 **Today's Progress**: Finished polishing off Survey Form project. Began reworking personal portfolio incorporating CSS grid.
