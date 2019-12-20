@@ -4,6 +4,10 @@ The log of my #100DaysOfCode challenge, started on Tuesday, November 19, 2019.
 
 ## Log
 
+### R1D30
+
+Worked on my portfolio some more. Slowly fixing kinks and bugs.
+
 ### R1D29
 
 Finished laying out project section of portfolio. Worked on updating responsiveness and layout more. Still have not updated live version as bugs need to be worked out.

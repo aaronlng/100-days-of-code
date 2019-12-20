@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 30: December 19, 2019
+
+**Today's Progress**: Worked on my portfolio some more. Slowly fixing kinks and bugs.
+
+**Thoughts:**Coming along slower than I had hoped. Would like to get live version updated before end of weekend.
+
+**Link to work:** [Portfolio](https://www.aaronlng.dev)
+
 ## Day 29: December 18, 2019
 
 **Today's Progress**: Finished laying out project section of portfolio. Worked on updating responsiveness and layout more. Still have not updated live version as bugs need to be worked out.
