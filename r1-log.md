@@ -4,6 +4,10 @@ The log of my #100DaysOfCode challenge, started on Tuesday, November 19, 2019.
 
 ## Log
 
+### R1D33
+
+Put in more work on the personal portfolio project and updated styling of project grid.
+
 ### R1D32
 
 Put in more work on the personal portfolio project and began building project grid.

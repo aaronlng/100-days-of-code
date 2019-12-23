@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 33: December 22, 2019
+
+**Today's Progress**: Put in more work on the personal portfolio project and updated styling of project grid.
+
+**Thoughts:**N/A
+
+**Link to work:** [Personal Portfolio Web Page](https://www.aaronlng.dev/personal-portfolio-webpage/)
+
 ## Day 32: December 21, 2019
 
 **Today's Progress**: Put in more work on the personal portfolio project and began building project grid.
