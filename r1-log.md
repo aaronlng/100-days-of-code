@@ -4,6 +4,10 @@ The log of my #100DaysOfCode challenge, started on Tuesday, November 19, 2019.
 
 ## Log
 
+### R1D35
+
+Finally went live with my updated portfolio. Spent a lot of time making sure it was mobile responsive and getting all of the sizing correct.
+
 ### R1D34
 
 Worked more on updating portfolio website. Completed mobile responsive styling for navigation and about section. Working on implementing flexbox styling in projects section.

@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 35: December 24, 2019
+
+**Today's Progress**: Finally went live with my updated portfolio. Spent a lot of time making sure it was mobile responsive and getting all of the sizing correct.
+
+**Thoughts:**Looking to start cranking through the JavaScript projects next.
+
+**Link to work:** [Portfolio](https://www.aaronlng.dev)
+
 ## Day 34: December 23, 2019
 
 **Today's Progress**: Worked more on updating portfolio website. Completed mobile responsive styling for navigation and about section. Working on implementing flexbox styling in projects section.
