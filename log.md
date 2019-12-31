@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 36: December 30, 2019
+
+**Today's Progress**: Down with a stomach bug for a few days. Picking back up where I left off, worked on trying to fix the mobile issue with my portfolio. Unsuccessful in solving yet. Trying some more tomorrow.
+
+**Thoughts:**Looking to start cranking through the JavaScript projects next.
+
+**Link to work:** [Portfolio](https://www.aaronlng.dev)
+
 ## Day 35: December 24, 2019
 
 **Today's Progress**: Finally went live with my updated portfolio. Spent a lot of time making sure it was mobile responsive and getting all of the sizing correct.

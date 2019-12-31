@@ -4,6 +4,10 @@ The log of my #100DaysOfCode challenge, started on Tuesday, November 19, 2019.
 
 ## Log
 
+### R1D36
+
+Down with a stomach bug for a few days. Picking back up where I left off, worked on trying to fix the mobile issue with my portfolio. Unsuccessful in solving yet. Trying some more tomorrow.
+
 ### R1D35
 
 Finally went live with my updated portfolio. Spent a lot of time making sure it was mobile responsive and getting all of the sizing correct.
