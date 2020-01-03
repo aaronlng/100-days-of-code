@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 3: January 3, 2020
+
+**Today's Progress**: Began working through Basic Data Structures module of JavaScript Algorithms and Data Structures Certification on freeCodeCamp. Worked on fixing portfolio issue.
+
+**Thoughts:**Only made it about half way through the module in my 30 minutes of working on learning.
+
+**Link to work:**[freeCodeCamp Modules](https://www.freecodecamp.org/learn)
+
 ## Day 2: January 2, 2020
 
 **Today's Progress**: Completed debugging module of JavaScript Algorithms and Data Structures Certification on freeCodeCamp. Worked on fixing portfolio issue.
