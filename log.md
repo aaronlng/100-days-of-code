@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 4: January 4, 2020
+
+**Today's Progress**: Worked on fixing portfolio issue. Spent most of my hour working on that but really struggling to figure out where the issue is stemming from. Did not get any new lessons done today.
+
+**Thoughts:**N/A
+
+**Link to work:**[freeCodeCamp Modules](https://www.freecodecamp.org/learn)
+
 ## Day 3: January 3, 2020
 
 **Today's Progress**: Began working through Basic Data Structures module of JavaScript Algorithms and Data Structures Certification on freeCodeCamp. Worked on fixing portfolio issue.
