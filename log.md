@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 6: January 6, 2020
+
+**Today's Progress**: Worked on fixing portfolio issue. Continued working on freeCodeCamp Basic Data Structures Lesson. About half way through the lessons. Worked up to chapter 4 in "Cracking the Coding Interview"
+
+**Thoughts:**Begin posting problems from the book as well as working on freeCodeCamp lessons.
+
+**Link to work:**[freeCodeCamp Modules](https://www.freecodecamp.org/learn)
+
 ## Day 5: January 5, 2020
 
 **Today's Progress**: Worked on fixing portfolio issue. Started reading cracking the coding interview. Got through the introduction and Chapter 1.
