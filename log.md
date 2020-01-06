@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 5: January 5, 2020
+
+**Today's Progress**: Worked on fixing portfolio issue. Started reading cracking the coding interview. Got through the introduction and Chapter 1.
+
+**Thoughts:**Begin posting problems from the book as well as working on freeCodeCamp lessons.
+
+**Link to work:**[freeCodeCamp Modules](https://www.freecodecamp.org/learn)
+
 ## Day 4: January 4, 2020
 
 **Today's Progress**: Worked on fixing portfolio issue. Spent most of my hour working on that but really struggling to figure out where the issue is stemming from. Did not get any new lessons done today.
