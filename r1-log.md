@@ -4,6 +4,10 @@ The log of my #100DaysOfCode challenge, started on Tuesday, November 19, 2019.
 
 ## Log
 
+### R1D7
+
+Worked on fixing portfolio issue. Continued working on freeCodeCamp Basic Data Structures Lesson. Not able to do more Cracking the Coding Interview today.
+
 ### R1D6
 
 Worked on fixing portfolio issue. Continued working on freeCodeCamp Basic Data Structures Lesson. About half way through the lessons. Worked up to chapter 4 in "Cracking the Coding Interview"

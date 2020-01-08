@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 7: January 7, 2020
+
+**Today's Progress**: Worked on fixing portfolio issue. Continued working on freeCodeCamp Basic Data Structures Lesson. Not able to do more Cracking the Coding Interview today.
+
+**Thoughts:**Begin posting problems from the book as well as working on freeCodeCamp lessons.
+
+**Link to work:**[freeCodeCamp Modules](https://www.freecodecamp.org/learn)
+
 ## Day 6: January 6, 2020
 
 **Today's Progress**: Worked on fixing portfolio issue. Continued working on freeCodeCamp Basic Data Structures Lesson. About half way through the lessons. Worked up to chapter 4 in "Cracking the Coding Interview"
