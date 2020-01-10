@@ -4,6 +4,10 @@ The log of my #100DaysOfCode challenge, started on Tuesday, November 19, 2019.
 
 ## Log
 
+### R1D9
+
+Worked on altering style of portfolio. Mainly messed around with the CSS some more. Trying to fix issue of getting everything to resize depending on screen size. Didn't get to any freeCodeCamp lessons today.
+
 ### R1D8
 
 Worked on altering style of portfolio. Finished freeCodeCamp's Basic Data Structures Lesson.
