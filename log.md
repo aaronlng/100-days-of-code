@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 10: January 10, 2020
+
+**Today's Progress**: Modified portfolio a little bit. Focused on changing the hover effect to just desktop rather than mobile styling.
+
+**Thoughts:**Begin posting problems from the book as well as working on freeCodeCamp lessons.
+
+**Link to work:**[freeCodeCamp Modules](https://www.freecodecamp.org/learn)
+
 ## Day 9: January 9, 2020
 
 **Today's Progress**: Worked on altering style of portfolio. Mainly messed around with the CSS some more. Trying to fix issue of getting everything to resize depending on screen size. Didn't get to any freeCodeCamp lessons today.

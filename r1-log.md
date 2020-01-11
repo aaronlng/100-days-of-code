@@ -4,6 +4,10 @@ The log of my #100DaysOfCode challenge, started on Tuesday, November 19, 2019.
 
 ## Log
 
+### R10D10
+
+Modified portfolio a little bit. Focused on changing the hover effect to just desktop rather than mobile styling.
+
 ### R1D9
 
 Worked on altering style of portfolio. Mainly messed around with the CSS some more. Trying to fix issue of getting everything to resize depending on screen size. Didn't get to any freeCodeCamp lessons today.
