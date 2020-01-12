@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 11: January 11, 2020
+
+**Today's Progress**: Worked on freeCodeCamp's Basic Algorithm Scripting lessons. Touched on Responsive web design portfolio project.
+
+**Thoughts:**Begin posting problems from the book as well as working on freeCodeCamp lessons.
+
+**Link to work:**[Personal Portfolio Webpage](https://www.aaronlng.dev/personal-portfolio-webpage/)
+
 ## Day 10: January 10, 2020
 
 **Today's Progress**: Modified portfolio a little bit. Focused on changing the hover effect to just desktop rather than mobile styling.

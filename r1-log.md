@@ -4,7 +4,11 @@ The log of my #100DaysOfCode challenge, started on Tuesday, November 19, 2019.
 
 ## Log
 
-### R10D10
+### R1D11
+
+Worked on freeCodeCamp's Basic Algorithm Scripting lessons. Touched on Responsive web design portfolio project.
+
+### R1D10
 
 Modified portfolio a little bit. Focused on changing the hover effect to just desktop rather than mobile styling.
 
