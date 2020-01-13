@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 12: January 12, 2020
+
+**Today's Progress**: Worked on Responsive web design portfolio project. Really focused on styling for mobile devices today using media queries.
+
+**Thoughts:**Begin posting problems from the book as well as working on freeCodeCamp lessons.
+
+**Link to work:**[Personal Portfolio Webpage](https://www.aaronlng.dev/personal-portfolio-webpage/)
+
 ## Day 11: January 11, 2020
 
 **Today's Progress**: Worked on freeCodeCamp's Basic Algorithm Scripting lessons. Touched on Responsive web design portfolio project.

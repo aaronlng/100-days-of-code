@@ -4,6 +4,10 @@ The log of my #100DaysOfCode challenge, started on Tuesday, November 19, 2019.
 
 ## Log
 
+### R1D12
+
+Worked on Responsive web design portfolio project. Really focused on styling for mobile devices today using media queries.
+
 ### R1D11
 
 Worked on freeCodeCamp's Basic Algorithm Scripting lessons. Touched on Responsive web design portfolio project.
