@@ -4,6 +4,10 @@ The log of my #100DaysOfCode challenge, started on Tuesday, November 19, 2019.
 
 ## Log
 
+### R2D13
+
+Worked on Responsive web design portfolio project some more. Still have a ways to go with styling. Did some more reading through Cracking the Coding Interview.
+
 ### R1D12
 
 Worked on Responsive web design portfolio project. Really focused on styling for mobile devices today using media queries.

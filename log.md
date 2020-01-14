@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 13: January 13, 2020
+
+**Today's Progress**: Worked on Responsive web design portfolio project some more. Still have a ways to go with styling. Did some more reading through Cracking the Coding Interview.
+
+**Thoughts:**Begin posting problems from the book as well as working on freeCodeCamp lessons.
+
+**Link to work:**[Personal Portfolio Webpage](https://www.aaronlng.dev/personal-portfolio-webpage/)
+
 ## Day 12: January 12, 2020
 
 **Today's Progress**: Worked on Responsive web design portfolio project. Really focused on styling for mobile devices today using media queries.
