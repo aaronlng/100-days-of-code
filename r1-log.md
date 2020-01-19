@@ -4,6 +4,10 @@ The log of my #100DaysOfCode challenge, started on Tuesday, November 19, 2019.
 
 ## Log
 
+### R1D18
+
+Continued working on mobile styling for my personal portfolio. Read some more in Cracking the Coding Interview.
+
 ### R1D17
 
 Continued working on mobile styling for my personal portfolio. Read some more in Cracking the Coding Interview.
