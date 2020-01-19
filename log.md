@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 17: January 18, 2020
+
+**Today's Progress**: Continued working on mobile styling for my personal portfolio. Read some more in Cracking the Coding Interview.
+
+**Thoughts:**Begin posting problems from the book as well as working on freeCodeCamp lessons.
+
+**Link to work:**[Personal Portfolio](https://www.aaronlng.dev)
+
 ## Day 16: January 16, 2020
 
 **Today's Progress**: Continued working on mobile styling for my personal portfolio. Read some more in Cracking the Coding Interview.
