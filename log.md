@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 20: January 22, 2020
+
+**Today's Progress**: Began styling the about section for my personal portfolio mobile design. Read some more in Cracking the Coding Interview.
+
+**Thoughts:**Begin posting problems from the book as well as working on freeCodeCamp lessons.
+
+**Link to work:**[Personal Portfolio](https://www.aaronlng.dev)
+
 ## Day 19: January 20, 2020
 
 **Today's Progress**: Styled the top navigation for my personal portfolio mobile design. Read some more in Cracking the Coding Interview.
