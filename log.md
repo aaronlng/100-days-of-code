@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 23: January 27, 2020
+
+**Today's Progress**: Began working on Liri Bot project. It's supposed to be like Apple's Siri but with text input instead of speech recognition. Set up the structure of the project and started learning Node.JS. Read some more in Cracking the Coding Interview.
+
+**Thoughts:**Begin posting problems from the book as well as working on freeCodeCamp lessons.
+
+**Link to work:**[Liri Bot Repo](https://github.com/aaronlng/liri-bot)
+
 ## Day 22: January 25, 2020
 
 **Today's Progress**: Wrapped up styling for my personal portfolio. Made it fully responsive for mobile, mid-sized screens, and desktop. Read some more in Cracking the Coding Interview.
