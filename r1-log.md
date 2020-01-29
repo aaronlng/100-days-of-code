@@ -4,6 +4,10 @@ The log of my #100DaysOfCode challenge, started on Tuesday, November 19, 2019.
 
 ## Log
 
+### R1D24
+
+Added NPM packages to repo and started learning about the Axios package. Read some more in Cracking the Coding Interview.
+
 ### R1D23
 
 Began working on Liri Bot project. It's supposed to be like Apple's Siri but with text input instead of speech recognition. Set up the structure of the project and started learning Node.JS. Read some more in Cracking the Coding Interview.
