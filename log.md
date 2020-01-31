@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 25: January 30, 2020
+
+**Today's Progress**: Worked on personal portfolio web page project from freeCodeCamp. Read some more in Cracking the Coding Interview.
+
+**Thoughts:**Begin posting problems from the book as well as working on freeCodeCamp lessons.
+
+**Link to work:**[Personal Portfolio Web Page](https://www.aaronlng.dev/personal-portfolio-webpage/)
+
 ## Day 24: January 28, 2020
 
 **Today's Progress**: Added NPM packages to repo and started learning about the Axios package. Read some more in Cracking the Coding Interview.
