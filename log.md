@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 27: February 10, 2020
+
+**Today's Progress**: Worked on Javascript exercises from Boot camp. Began going back through Essentials of JavaScript on LinkedIn Learning.
+
+**Thoughts:**
+
+**Link to work:**[Pizza Variables](https://github.com/aaronlng/pizzaVariables)
+
 ## Day 26: February 3, 2020
 
 **Today's Progress**: Worked on personal portfolio web page project from freeCodeCamp.
