@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 28: February 17, 2020
+
+**Today's Progress**: Worked on Javascript exercises from Boot camp. Continued with Essentials of JavaScript on LinkedIn Learning.
+
+**Thoughts:**
+
+**Link to work:**[Zoo Loop](https://github.com/aaronlng/zooLoop)
+
 ## Day 27: February 10, 2020
 
 **Today's Progress**: Worked on Javascript exercises from Boot camp. Began going back through Essentials of JavaScript on LinkedIn Learning.
