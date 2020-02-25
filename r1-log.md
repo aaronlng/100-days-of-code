@@ -4,6 +4,10 @@ The log of my #100DaysOfCode challenge, started on Tuesday, November 19, 2019.
 
 ## Log
 
+### R1D29
+
+Worked on Javascript exercises from Boot camp.
+
 ### R1D28
 
 Worked on Javascript exercises from Boot camp. Continued with Essentials of JavaScript on LinkedIn Learning.

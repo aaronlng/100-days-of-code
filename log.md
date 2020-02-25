@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 29: February 24, 2020
+
+**Today's Progress**: Worked on Javascript exercises from Boot camp.
+
+**Thoughts:**
+
+**Link to work:**[Hard Loop](https://github.com/aaronlng/hard-loop)
+
 ## Day 28: February 17, 2020
 
 **Today's Progress**: Worked on Javascript exercises from Boot camp. Continued with Essentials of JavaScript on LinkedIn Learning.
