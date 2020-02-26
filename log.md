@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 30: February 25, 2020
+
+**Today's Progress**: Worked on Rock, Paper, Scissors JavaScript exercise.
+
+**Thoughts:**
+
+**Link to work:**[RPS-Coded](https://github.com/aaronlng/rps-coded)
+
 ## Day 29: February 24, 2020
 
 **Today's Progress**: Worked on Javascript exercises from Boot camp.
