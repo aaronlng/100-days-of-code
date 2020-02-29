@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 32: February 29, 2020
+
+**Today's Progress**: Read introduction to 'Eloquent JavaScript' by Marijn Haverbeke. Added footer section to personal portfolio project.
+
+**Thoughts:**Hoping this is a good resource to dive deep into understanding JavaScript.
+
+**Link to work:**
+
 ## Day 31: February 27, 2020
 
 **Today's Progress**: Continued working on Rock, Paper, Scissors JavaScript exercise.

@@ -4,6 +4,10 @@ The log of my #100DaysOfCode challenge, started on Tuesday, November 19, 2019.
 
 ## Log
 
+### R1D32
+
+Read introduction to 'Eloquent JavaScript' by Marijn Haverbeke. Added footer section to personal portfolio project.
+
 ### R1D31
 
 Continued working on Rock, Paper, Scissors JavaScript exercise.
