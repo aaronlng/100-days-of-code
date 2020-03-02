@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 33: March 1, 2020
+
+**Today's Progress**: Read Chapter 1 in 'Eloquent JavaScript' by Marijn Haverbeke. Editied projects section of Personal Portfolio Webpage.
+
+**Thoughts:**Hoping this is a good resource to dive deep into understanding JavaScript.
+
+**Link to work:**[Personal Portfolio Webpage](https://www.aaronlng.dev/personal-portfolio-webpage/)
+
 ## Day 32: February 29, 2020
 
 **Today's Progress**: Read introduction to 'Eloquent JavaScript' by Marijn Haverbeke. Added footer section to personal portfolio project.
