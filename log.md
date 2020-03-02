@@ -2,7 +2,7 @@
 
 ## Day 33: March 1, 2020
 
-**Today's Progress**: Read Chapter 1 in 'Eloquent JavaScript' by Marijn Haverbeke. Editied projects section of Personal Portfolio Webpage.
+**Today's Progress**: Read Chapter 1 in 'Eloquent JavaScript' by Marijn Haverbeke. Edited projects section of Personal Portfolio Webpage.
 
 **Thoughts:**Hoping this is a good resource to dive deep into understanding JavaScript.
 
