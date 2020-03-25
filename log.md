@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 34: March 25, 2020
+
+**Today's Progress**: Read Chapter 2 in 'Eloquent JavaScript' by Marijn Haverbeke. Solved example exercises at the end of the chapter.
+
+**Thoughts:**Hoping this is a good resource to dive deep into understanding JavaScript.
+
+**Link to work:** (Looping A Triangle)[https://github.com/aaronlng/looping-a-triangle], (FizzBuzz)[https://github.com/aaronlng/fizzBuzz]
+
 ## Day 33: March 1, 2020
 
 **Today's Progress**: Read Chapter 1 in 'Eloquent JavaScript' by Marijn Haverbeke. Edited projects section of Personal Portfolio Webpage.
