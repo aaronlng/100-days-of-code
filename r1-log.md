@@ -4,9 +4,13 @@ The log of my #100DaysOfCode challenge, started on Tuesday, November 19, 2019.
 
 ## Log
 
-### R1D35
+### R1D36
 
 Read Chapter 3 in 'Eloquent JavaScript' by Marijn Haverbeke. Solved example exercises at the end of the chapter.
+
+### R1D35
+
+Continued working on Chapter 2 exercise Chessboard.
 
 ### R1D34
 

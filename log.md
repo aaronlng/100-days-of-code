@@ -1,12 +1,20 @@
 # 100 Days Of Code - Log
 
-## Day 35: March 30, 2020
+## Day 36: March 30, 2020
 
 **Today's Progress**: Read Chapter 3 in 'Eloquent JavaScript' by Marijn Haverbeke. Solved example exercises at the end of the chapter.
 
 **Thoughts:**Hoping this is a good resource to dive deep into understanding JavaScript.
 
 **Link to work:** (Minimum)[https://github.com/aaronlng/minimum], (isEven)[https://github.com/aaronlng/isEven]
+
+## Day 35: March 26, 2020
+
+**Today's Progress**: Continued working on Chapter 2 exercise Chessboard. 
+
+**Thoughts:**Hoping this is a good resource to dive deep into understanding JavaScript.
+
+**Link to work:** (Chessboard)[https://github.com/aaronlng/chessboard]
 
 ## Day 34: March 25, 2020
 
