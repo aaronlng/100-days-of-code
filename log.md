@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 37: April 2, 2020
+
+**Today's Progress**: Read Chapter 4 in 'Eloquent JavaScript' by Marijn Haverbeke. Solved example exercises at the end of the chapter.
+
+**Thoughts:**Hoping this is a good resource to dive deep into understanding JavaScript.
+
+**Link to work:** (beanCounting)[https://github.com/aaronlng/beanCounting]
+
 ## Day 36: March 30, 2020
 
 **Today's Progress**: Read Chapter 3 in 'Eloquent JavaScript' by Marijn Haverbeke. Solved example exercises at the end of the chapter.
