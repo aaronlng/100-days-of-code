@@ -6,7 +6,7 @@
 
 **Thoughts:**First time around this challenge did not go as planned. Looking to hold myself more accountable this time around.
 
-**Link to work:**[Isa Fashion Blog](https://www.aaronlng.dev/fashion-blog/)
+**Link to work:** [Isa Fashion Blog](https://www.aaronlng.dev/fashion-blog/)
 
 <!-- BLANK TEMPLATE
 
