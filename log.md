@@ -1,5 +1,25 @@
 # 100 Days Of Code - Log
 
+## Day 1: May 1, 2020
+
+**Today's Progress**: Worked through Codecademy's first HTML module. Built a basic fashion blog using proper HTML structure and elements.
+
+**Thoughts:**First time around this challenge did not go as planned. Looking to hold myself more accountable this time around.
+
+**Link to work:**[Isa Fashion Blog](https://www.aaronlng.dev/fashion-blog/)
+
+<!-- BLANK TEMPLATE
+
+## Day 1: January 1, 2020
+
+**Today's Progress**:
+
+**Thoughts:**
+
+**Link to work:** -->
+
+<!-- Challenge attempt 1
+
 ## Day 37: April 2, 2020
 
 **Today's Progress**: Read Chapter 4 in 'Eloquent JavaScript' by Marijn Haverbeke. Solved example exercises at the end of the chapter.
@@ -286,31 +306,4 @@
 
 **Thoughts:**Aiming to knock out at least one module and some actual project work everyday.
 
-**Link to work:**[freeCodeCamp Modules](https://www.freecodecamp.org/learn)
-
-## Day 1: January 1, 2020
-
-**Today's Progress**: New year, new challenge. Got a little thrown off during the holiday season so starting fresh. Completed regular expressions module of JavaScript Algorithms and Data Structures Certification on freeCodeCamp. Worked on fixing portfolio issue.
-
-**Thoughts:**Aiming to knock out at least one module and some actual project work everyday.
-
-**Link to work:**[freeCodeCamp Modules](https://www.freecodecamp.org/learn)
-
-<!-- BLANK TEMPLATE
-
-## Day 1: January 1, 2020
-
-**Today's Progress**:
-
-**Thoughts:**
-
-**Link to work:** -->
-
-<!-- ### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com) -->
+**Link to work:**[freeCodeCamp Modules](https://www.freecodecamp.org/learn) -->
