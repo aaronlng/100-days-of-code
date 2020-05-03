@@ -12,7 +12,7 @@
 
 **Today's Progress**: Worked through Codecademy's first HTML module. Built a basic fashion blog using proper HTML structure and elements.
 
-**Thoughts:**First time around this challenge did not go as planned. Looking to hold myself more accountable this time around.
+**Thoughts:** First time around this challenge did not go as planned. Looking to hold myself more accountable this time around.
 
 **Link to work:** [Isa Fashion Blog](https://www.aaronlng.dev/fashion-blog/)
 
