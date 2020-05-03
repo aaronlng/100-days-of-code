@@ -4,6 +4,10 @@ The log of my #100DaysOfCode challenge, started on Friday, May 1, 2020.
 
 ## Log
 
+### R1D2
+
+Worked through Codecademy's second HTML module on tables.
+
 ### R1D1
 
 Worked through Codecademy's first HTML module. Built a basic fashion blog using proper HTML structure and elements.

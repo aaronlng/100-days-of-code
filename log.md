@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 2: May 2, 2020
+
+**Today's Progress**: Worked through Codecademy's second HTML module on tables.
+
+**Thoughts:** Reviewing HTML to solidify concepts 
+
+**Link to work:** N/A
+
 ## Day 1: May 1, 2020
 
 **Today's Progress**: Worked through Codecademy's first HTML module. Built a basic fashion blog using proper HTML structure and elements.
