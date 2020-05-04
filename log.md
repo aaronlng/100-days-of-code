@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 3: May 3, 2020
+
+**Today's Progress**: Worked through Codecademy's second HTML project titled Wine Festival Schedule.
+
+**Thoughts:** Reviewing HTML to solidify concepts 
+
+**Link to work:** [Wine Festival Schedule](https://www.aaronlng.dev/wine-festival-schedule/)
+
 ## Day 2: May 2, 2020
 
 **Today's Progress**: Worked through Codecademy's second HTML module on tables.

@@ -4,6 +4,10 @@ The log of my #100DaysOfCode challenge, started on Friday, May 1, 2020.
 
 ## Log
 
+### R1D3
+
+Worked through Codecademy's second HTML project titled Wine Festival Schedule.
+
 ### R1D2
 
 Worked through Codecademy's second HTML module on tables.
