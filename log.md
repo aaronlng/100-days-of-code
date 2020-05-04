@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 4: May 4, 2020
+
+**Today's Progress**: Worked through Codecademy's third HTML project titled Form-A-Story. Also made it through form validation module.
+
+**Thoughts:** Reviewing HTML to solidify concepts 
+
+**Link to work:** [Form-A-Story](https://www.aaronlng.dev/form-a-story/)
+
 ## Day 3: May 3, 2020
 
 **Today's Progress**: Worked through Codecademy's second HTML project titled Wine Festival Schedule.
