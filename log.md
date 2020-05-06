@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 6: May 6, 2020
+
+**Today's Progress**: Worked through Codecademy's CSS module. Completed CSS project and started JavaScript module.
+
+**Thoughts:** Reviewing JavaScript to solidify concepts 
+
+**Link to work:** [Dasmoto's Arts & Crafts](https://www.aaronlng.dev/dasmotos-arts-and-crafts/)
+
 ## Day 5: May 5, 2020
 
 **Today's Progress**: Worked through Codecademy's fourth HTML project New York City Blog. Began first CSS module.
