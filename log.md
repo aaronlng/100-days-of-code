@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 5: May 5, 2020
+
+**Today's Progress**: Worked through Codecademy's fourth HTML project New York City Blog. Began first CSS module.
+
+**Thoughts:** Reviewing CSS to solidify concepts 
+
+**Link to work:** [New York City Blog](https://www.aaronlng.dev/new-york-city-blog/)
+
 ## Day 4: May 4, 2020
 
 **Today's Progress**: Worked through Codecademy's third HTML project titled Form-A-Story. Also made it through form validation module.

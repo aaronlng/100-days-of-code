@@ -4,6 +4,10 @@ The log of my #100DaysOfCode challenge, started on Friday, May 1, 2020.
 
 ## Log
 
+### R1D5
+
+Worked through Codecademy's fourth HTML project New York City Blog. Began first CSS module.
+
 ### R1D4
 
 Worked through Codecademy's third HTML project titled Form-A-Story. Also made it through form validation module.
