@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 7: May 7, 2020
+
+**Today's Progress**: Worked through Codecademy's JavaScript module. Completed Kelvin Weather and Dog Years projects.
+
+**Thoughts:** Reviewing JavaScript to solidify concepts 
+
+**Link to work:** [Kelvin Weather](https://www.aaronlng.dev/kelvin-weather/), [Dog Years](https://www.aaronlng.dev/dog-years/)
+
 ## Day 6: May 6, 2020
 
 **Today's Progress**: Worked through Codecademy's CSS module. Completed CSS project and started JavaScript module.
