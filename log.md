@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 8: May 8, 2020
+
+**Today's Progress**: Worked through Codecademy's JavaScript module. Learned about functions. Completed Rock, Paper, Scissors project.
+
+**Thoughts:** Reviewing JavaScript to solidify concepts 
+
+**Link to work:** [Rock, Paper, Scissors](https://www.aaronlng.dev/codecademy-rock-paper-scissors/)
+
 ## Day 7: May 7, 2020
 
 **Today's Progress**: Worked through Codecademy's JavaScript module. Completed Kelvin Weather and Dog Years projects.

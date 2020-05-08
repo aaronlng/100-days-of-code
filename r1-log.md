@@ -4,9 +4,13 @@ The log of my #100DaysOfCode challenge, started on Friday, May 1, 2020.
 
 ## Log
 
+### R1D8
+
+Worked through Codecademy's JavaScript module. Learned about functions. Completed Rock, Paper, Scissors project.
+
 ### R1D7
 
-
+Worked through Codecademy's JavaScript module. Completed Kelvin Weather and Dog Years projects.
 
 ### R1D6
 
