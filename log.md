@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 9: May 9, 2020
+
+**Today's Progress**: Worked through Codecademy's JavaScript module. Continued practicing functions. Completed sleep debt calculator project.
+
+**Thoughts:** Reviewing JavaScript to solidify concepts 
+
+**Link to work:** [Sleep Debt Calculator](https://www.aaronlng.dev/sleep-debt-calculator/)
+
 ## Day 8: May 8, 2020
 
 **Today's Progress**: Worked through Codecademy's JavaScript module. Learned about functions. Completed Rock, Paper, Scissors project.
