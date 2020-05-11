@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 10: May 10, 2020
+
+**Today's Progress**: Worked through Codecademy's JavaScript module. Continued practicing functions. Completed function practice exercises.
+
+**Thoughts:** Reviewing JavaScript to solidify concepts 
+
+**Link to work:** N/A
+
 ## Day 9: May 9, 2020
 
 **Today's Progress**: Worked through Codecademy's JavaScript module. Continued practicing functions. Completed sleep debt calculator project.

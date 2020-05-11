@@ -4,6 +4,10 @@ The log of my #100DaysOfCode challenge, started on Friday, May 1, 2020.
 
 ## Log
 
+### R1D10
+
+Worked through Codecademy's JavaScript module. Continued practicing functions. Completed function practice exercises.
+
 ### R1D9
 
 Worked through Codecademy's JavaScript module. Continued practicing functions. Completed sleep debt calculator project.
