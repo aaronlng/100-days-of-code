@@ -4,6 +4,10 @@ The log of my #100DaysOfCode challenge, started on Friday, May 1, 2020.
 
 ## Log
 
+### R1D12
+
+Worked through Codecademy's fourth module Getting More Advanced with Design. Learned about display and positioning in CSS and different color values.
+
 ### R1D11
 
 Worked through Codecademy's JavaScript module. Learned about the box model and practiced altering it. Completed Davie's Burgers project.

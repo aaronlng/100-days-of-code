@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 12: May 12, 2020
+
+**Today's Progress**: Worked through Codecademy's fourth module Getting More Advanced with Design. Learned about display and positioning in CSS and different color values.
+
+**Thoughts:** Reviewing CSS to solidify concepts 
+
+**Link to work:** [Broadway Design](https://www.aaronlng.dev/broadway-design/), [Paint Store](https://www.aaronlng.dev/paint-store/)
+
 ## Day 11: May 11, 2020
 
 **Today's Progress**: Worked through Codecademy's JavaScript module. Learned about the box model and practiced altering it. Completed Davie's Burgers project.
