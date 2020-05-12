@@ -4,6 +4,10 @@ The log of my #100DaysOfCode challenge, started on Friday, May 1, 2020.
 
 ## Log
 
+### R1D11
+
+Worked through Codecademy's JavaScript module. Learned about the box model and practiced altering it. Completed Davie's Burgers project.
+
 ### R1D10
 
 Worked through Codecademy's JavaScript module. Continued practicing functions. Completed function practice exercises.

@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 11: May 11, 2020
+
+**Today's Progress**: Worked through Codecademy's JavaScript module. Learned about the box model and practiced altering it. Completed Davie's Burgers project.
+
+**Thoughts:** Reviewing JavaScript to solidify concepts 
+
+**Link to work:** [Davie's Burgers](https://www.aaronlng.dev/davies-burgers/)
+
 ## Day 10: May 10, 2020
 
 **Today's Progress**: Worked through Codecademy's JavaScript module. Continued practicing functions. Completed function practice exercises.
