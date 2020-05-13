@@ -7,6 +7,7 @@
 **Thoughts:** Reviewing CSS to solidify concepts 
 
 **Link to work:** [Aoife Conleavy](https://www.aaronlng.dev/Aoife-Conleavy/)
+
 ## Day 12: May 12, 2020
 
 **Today's Progress**: Worked through Codecademy's fourth module Getting More Advanced with Design. Learned about display and positioning in CSS and different color values.
