@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 14: May 14, 2020
+
+**Today's Progress**: Worked through Codecademy's fourth module Getting More Advanced with Design. Learned about responsive design and FlexBox layout. 
+
+**Thoughts:** Reviewing CSS to solidify concepts 
+
+**Link to work:** [Tsunami Coffee](https://www.aaronlng.dev/tsunami-coffee/), [Flex To Do](https://www.aaronlng.dev/flexbox-to-do/)
+
 ## Day 13: May 13, 2020
 
 **Today's Progress**: Worked through Codecademy's fourth module Getting More Advanced with Design. Learned about typography and reviewed CSS concepts through the CSS Code Challenges.

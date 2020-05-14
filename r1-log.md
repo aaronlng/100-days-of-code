@@ -4,6 +4,10 @@ The log of my #100DaysOfCode challenge, started on Friday, May 1, 2020.
 
 ## Log
 
+### R1D14
+
+Worked through Codecademy's fourth module Getting More Advanced with Design. Learned about responsive design and FlexBox layout.
+
 ### R1D13
 Worked through Codecademy's fourth module Getting More Advanced with Design. Learned about typography and reviewed CSS concepts through the CSS Code Challenges.
 
