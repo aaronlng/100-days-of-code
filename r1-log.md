@@ -4,6 +4,10 @@ The log of my #100DaysOfCode challenge, started on Friday, May 1, 2020.
 
 ## Log
 
+### R1D15 
+
+Worked through Codecademy's fifth module JavaScript: Arrays, Loops, and Objects. Learned about scope, arrays, and loops. 
+
 ### R1D14
 
 Worked through Codecademy's fourth module Getting More Advanced with Design. Learned about responsive design and FlexBox layout.

@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 15: May 15, 2020
+
+**Today's Progress**: Worked through Codecademy's fifth module JavaScript: Arrays, Loops, and Objects. Learned about scope, arrays, and loops. 
+
+**Thoughts:** Reviewing JavaScript to solidify concepts 
+
+**Link to work:** [Training Days](https://www.aaronlng.dev/training-days/), [Secret Message](https://www.aaronlng.dev/secret-message/), [Whale Tank](https://www.aaronlng.dev/whale-tank/)
+
 ## Day 14: May 14, 2020
 
 **Today's Progress**: Worked through Codecademy's fourth module Getting More Advanced with Design. Learned about responsive design and FlexBox layout. 
