@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 16: May 16, 2020
+
+**Today's Progress**: Worked through Codecademy's fifth module JavaScript: Arrays, Loops, and Objects. Learned about iterators. 
+
+**Thoughts:** Reviewing JavaScript to solidify concepts 
+
+**Link to work:** [Mini Linter](https://www.aaronlng.dev/mini-linter/)
+
 ## Day 15: May 15, 2020
 
 **Today's Progress**: Worked through Codecademy's fifth module JavaScript: Arrays, Loops, and Objects. Learned about scope, arrays, and loops. 
