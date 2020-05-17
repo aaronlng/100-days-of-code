@@ -2,7 +2,7 @@
 
 ## Day 16: May 16, 2020
 
-**Today's Progress**: Worked through Codecademy's fifth module JavaScript: Arrays, Loops, and Objects. Learned about iterators. 
+**Today's Progress**: Worked through Codecademy's fifth module JavaScript: Arrays, Loops, and Objects. Worked on project 4: Mini Linter. 
 
 **Thoughts:** Reviewing JavaScript to solidify concepts 
 
