@@ -1,8 +1,25 @@
 # 100 Days Of Code - Log
 
+## Day 18: May 18, 2020
+
+**Today's Progress**: Worked through Codecademy's fifth module JavaScript: Arrays, Loops, and Objects. Completed project 4: Mini Linter. Began learning about objects.
+
+**Thoughts:** Reviewing JavaScript to solidify concepts 
+
+**Link to work:** [Mini Linter](https://www.aaronlng.dev/mini-linter/)
+
+## Day 17: May 17, 2020
+
+**Today's Progress**: Worked through Codecademy's fifth module JavaScript: Arrays, Loops, and Objects. Worked on project 4: Mini Linter.  
+
+**Thoughts:** Reviewing JavaScript to solidify concepts 
+
+**Link to work:** [Mini Linter](https://www.aaronlng.dev/mini-linter/)
+
+
 ## Day 16: May 16, 2020
 
-**Today's Progress**: Worked through Codecademy's fifth module JavaScript: Arrays, Loops, and Objects. Worked on project 4: Mini Linter. 
+**Today's Progress**: Worked through Codecademy's fifth module JavaScript: Arrays, Loops, and Objects. Learned about iterators. 
 
 **Thoughts:** Reviewing JavaScript to solidify concepts 
 
