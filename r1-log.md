@@ -4,6 +4,10 @@ The log of my #100DaysOfCode challenge, started on Friday, May 1, 2020.
 
 ## Log
 
+### R1D19
+
+Worked through Codecademy's fifth module JavaScript: Arrays, Loops, and Objects. Continued learning about objects and applying the learning to the meal maker and team stats projects. 
+
 ### R1D18
 
 Worked through Codecademy's fifth module JavaScript: Arrays, Loops, and Objects. Completed project 4: Mini Linter. Began learning about objects.

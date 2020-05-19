@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 19: May 19, 2020
+
+**Today's Progress**: Worked through Codecademy's fifth module JavaScript: Arrays, Loops, and Objects. Continued learning about objects and applying the learning to the meal maker and team stats projects. 
+
+**Thoughts:** Reviewing JavaScript to solidify concepts 
+
+**Link to work:** [Meal Maker](https://www.aaronlng.dev/meal-maker/), [Team Stats](https://www.aaronlng.dev/team-stats/)
+
 ## Day 18: May 18, 2020
 
 **Today's Progress**: Worked through Codecademy's fifth module JavaScript: Arrays, Loops, and Objects. Completed project 4: Mini Linter. Began learning about objects.
