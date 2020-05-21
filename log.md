@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 20: May 20, 2020
+
+**Today's Progress**: Worked through Codecademy's fifth module JavaScript: Arrays, Loops, and Objects. Finished intermediate JavaScript challenges. Began Lodash project. 
+
+**Thoughts:** Reviewing JavaScript to solidify concepts 
+
+**Link to work:** [Lodash](https://www.aaronlng.dev/codecademy-lodash/)
+
 ## Day 19: May 19, 2020
 
 **Today's Progress**: Worked through Codecademy's fifth module JavaScript: Arrays, Loops, and Objects. Continued learning about objects and applying the learning to the meal maker and team stats projects. 
