@@ -4,6 +4,10 @@ The log of my #100DaysOfCode challenge, started on Friday, May 1, 2020.
 
 ## Log
 
+### R1D22
+
+Worked through Codecademy's fifth module JavaScript: Arrays, Loops, and Objects. Successfully implemented 3 methods in Lodash project. Taking it slow and steady through this project. 
+
 ### R1D21
 
 Worked through Codecademy's fifth module JavaScript: Arrays, Loops, and Objects. Continued working on Lodash project. 

@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 22: May 22, 2020
+
+**Today's Progress**: Worked through Codecademy's fifth module JavaScript: Arrays, Loops, and Objects. Successfully implemented 3 methods in Lodash project. Taking it slow and steady through this project. 
+
+**Thoughts:** Reviewing JavaScript to solidify concepts 
+
+**Link to work:** [Lodash](https://www.aaronlng.dev/codecademy-lodash/)
+
 ## Day 21: May 21, 2020
 
 **Today's Progress**: Worked through Codecademy's fifth module JavaScript: Arrays, Loops, and Objects. Continued working on Lodash project. 
