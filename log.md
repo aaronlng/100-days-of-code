@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 26: May 26, 2020
+
+**Today's Progress**: Worked through Codecademy's fifth module JavaScript: Arrays, Loops, and Objects. Finally finished the Lodash project. 
+
+**Thoughts:** Reviewing JavaScript to solidify concepts 
+
+**Link to work:** [Lodash](https://www.aaronlng.dev/codecademy-lodash/)
+
 ## Day 25: May 25, 2020
 
 **Today's Progress**: Worked through Codecademy's fifth module JavaScript: Arrays, Loops, and Objects. Continued implementing methods in the Lodash project. 
