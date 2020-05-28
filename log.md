@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 27: May 27, 2020
+
+**Today's Progress**: Worked through Codecademy's sixth module Building Interactive JavaScript Websites. Began working on Chore Door project.
+
+**Thoughts:** Reviewing JavaScript to solidify concepts 
+
+**Link to work:** [Lodash](https://www.aaronlng.dev/chore-door/)
+
 ## Day 26: May 26, 2020
 
 **Today's Progress**: Worked through Codecademy's fifth module JavaScript: Arrays, Loops, and Objects. Finally finished the Lodash project. 

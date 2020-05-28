@@ -4,6 +4,10 @@ The log of my #100DaysOfCode challenge, started on Friday, May 1, 2020.
 
 ## Log
 
+### R1D27
+
+Worked through Codecademy's sixth module Building Interactive JavaScript Websites. Began working on Chore Door project.
+
 ### R1D26 
 
 Worked through Codecademy's fifth module JavaScript: Arrays, Loops, and Objects. Finally finished the Lodash project. 
