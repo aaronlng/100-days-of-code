@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 29: May 29, 2020
+
+**Today's Progress**: Worked through Codecademy's sixth module Building Interactive JavaScript Websites. Began working on Piano Player project.
+
+**Thoughts:** Reviewing JavaScript to solidify concepts 
+
+**Link to work:** [Lodash](https://www.aaronlng.dev/chore-door/)
+
 ## Day 28: May 28, 2020
 
 **Today's Progress**: Worked through Codecademy's sixth module Building Interactive JavaScript Websites. Completed Chore Door project.
