@@ -1,12 +1,20 @@
 # 100 Days Of Code - Log
 
-## Day 29: May 29, 2020
+## Day 30: May 30, 2020
 
-**Today's Progress**: Worked through Codecademy's sixth module Building Interactive JavaScript Websites. Began working on Piano Player project.
+**Today's Progress**: Worked through Codecademy's sixth module Building Interactive JavaScript Websites. Completed Piano Keys project.
 
 **Thoughts:** Reviewing JavaScript to solidify concepts 
 
-**Link to work:** [Lodash](https://www.aaronlng.dev/chore-door/)
+**Link to work:** [Lodash](https://www.aaronlng.dev/piano-keys/)
+
+## Day 29: May 29, 2020
+
+**Today's Progress**: Worked through Codecademy's sixth module Building Interactive JavaScript Websites. Began working on Piano Keys project.
+
+**Thoughts:** Reviewing JavaScript to solidify concepts 
+
+**Link to work:** [Lodash](https://www.aaronlng.dev/piano-keys/)
 
 ## Day 28: May 28, 2020
 

@@ -4,9 +4,13 @@ The log of my #100DaysOfCode challenge, started on Friday, May 1, 2020.
 
 ## Log
 
+### R1D30
+
+Worked through Codecademy's sixth module Building Interactive JavaScript Websites. Completed Piano Keys project.
+
 ### R1D29
 
- Worked through Codecademy's sixth module Building Interactive JavaScript Websites. Began working on Piano Player project.
+ Worked through Codecademy's sixth module Building Interactive JavaScript Websites. Began working on Piano Keys project.
 
 ### R1D28
 
