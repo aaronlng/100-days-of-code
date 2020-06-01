@@ -4,6 +4,10 @@ The log of my #100DaysOfCode challenge, started on Friday, May 1, 2020.
 
 ## Log
 
+### R1D31
+
+Worked through Codecademy's sixth module Building Interactive JavaScript Websites. Learned about Handlebars templating today. Began Musicon project.
+
 ### R1D30
 
 Worked through Codecademy's sixth module Building Interactive JavaScript Websites. Completed Piano Keys project.
