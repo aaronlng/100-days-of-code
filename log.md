@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 32: June 1, 2020
+
+**Today's Progress**: Completed Musicon project. Worked through Codecademy's seventh module Intermediate JavaScript. Began learning about constructors and classes in JavaScript.
+
+**Thoughts:** Reviewing JavaScript to solidify concepts 
+
+**Link to work:** [Lodash](https://www.aaronlng.dev/musicon/)
+
 ## Day 31: May 31, 2020
 
 **Today's Progress**: Worked through Codecademy's sixth module Building Interactive JavaScript Websites. Learned about Handlebars templating today. Began Musicon project.
