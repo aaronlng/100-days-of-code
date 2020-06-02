@@ -1,12 +1,20 @@
 # 100 Days Of Code - Log
 
+## Day 33: June 2, 2020
+
+**Today's Progress**: Worked through Codecademy's seventh module Intermediate JavaScript. Continued learning about classes in JavaScript and the concept of inheritance. Completed Build a Library project. Completed School Catalogue project. Finished the JavaScript Classes module.
+
+**Thoughts:** Reviewing JavaScript to solidify concepts 
+
+**Link to work:** [Build a Library](https://www.aaronlng.dev/build-a-library/), [School Catalogue](https://www.aaronlng.dev/shool-catalogue)
+
 ## Day 32: June 1, 2020
 
 **Today's Progress**: Completed Musicon project. Worked through Codecademy's seventh module Intermediate JavaScript. Began learning about constructors and classes in JavaScript.
 
 **Thoughts:** Reviewing JavaScript to solidify concepts 
 
-**Link to work:** [Lodash](https://www.aaronlng.dev/musicon/)
+**Link to work:** [Musicon](https://www.aaronlng.dev/musicon/)
 
 ## Day 31: May 31, 2020
 
@@ -14,7 +22,7 @@
 
 **Thoughts:** Reviewing JavaScript to solidify concepts 
 
-**Link to work:** [Lodash](https://www.aaronlng.dev/musicon/)
+**Link to work:** [Musicon](https://www.aaronlng.dev/musicon/)
 
 ## Day 30: May 30, 2020
 
@@ -22,7 +30,7 @@
 
 **Thoughts:** Reviewing JavaScript to solidify concepts 
 
-**Link to work:** [Lodash](https://www.aaronlng.dev/piano-keys/)
+**Link to work:** [Piano Keys](https://www.aaronlng.dev/piano-keys/)
 
 ## Day 29: May 29, 2020
 
@@ -30,7 +38,7 @@
 
 **Thoughts:** Reviewing JavaScript to solidify concepts 
 
-**Link to work:** [Lodash](https://www.aaronlng.dev/piano-keys/)
+**Link to work:** [Piano Keys](https://www.aaronlng.dev/piano-keys/)
 
 ## Day 28: May 28, 2020
 
@@ -38,7 +46,7 @@
 
 **Thoughts:** Reviewing JavaScript to solidify concepts 
 
-**Link to work:** [Lodash](https://www.aaronlng.dev/chore-door/)
+**Link to work:** [Chore Door](https://www.aaronlng.dev/chore-door/)
 
 ## Day 27: May 27, 2020
 
@@ -46,7 +54,7 @@
 
 **Thoughts:** Reviewing JavaScript to solidify concepts 
 
-**Link to work:** [Lodash](https://www.aaronlng.dev/chore-door/)
+**Link to work:** [Chore Door](https://www.aaronlng.dev/chore-door/)
 
 ## Day 26: May 26, 2020
 

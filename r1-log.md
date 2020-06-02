@@ -4,6 +4,10 @@ The log of my #100DaysOfCode challenge, started on Friday, May 1, 2020.
 
 ## Log
 
+### R1D33
+
+Worked through Codecademy's seventh module Intermediate JavaScript. Continued learning about classes in JavaScript and the concept of inheritance. Completed Build a Library project. Completed School Catalogue project. Finished the JavaScript Classes module.
+
 ### R1D32
 
 Completed Musicon project. Worked through Codecademy's seventh module Intermediate JavaScript. Began learning about constructors and classes in JavaScript.
