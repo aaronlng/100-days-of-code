@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 34: June 3, 2020
+
+**Today's Progress**: Worked through Codecademy's seventh module Intermediate JavaScript. Learned about JavaScript Modules and import/export. Completed Message Mixer project.
+
+**Thoughts:** Reviewing JavaScript to solidify concepts 
+
+**Link to work:** [Message Mixer](https://www.aaronlng.dev/message-mixer/)
+
 ## Day 33: June 2, 2020
 
 **Today's Progress**: Worked through Codecademy's seventh module Intermediate JavaScript. Continued learning about classes in JavaScript and the concept of inheritance. Completed Build a Library project. Completed School Catalogue project. Finished the JavaScript Classes module.
