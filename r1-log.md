@@ -4,6 +4,10 @@ The log of my #100DaysOfCode challenge, started on Friday, May 1, 2020.
 
 ## Log
 
+### R1D36
+
+Worked through Codecademy's seventh module Intermediate JavaScript. Completed debugging JavaScript code lesson. Learned about error handling utilizing try...catch block. Began Find Your Hat project.
+
 ### R1D35
 
 Worked through Codecademy's seventh module Intermediate JavaScript. Completed WorkAround project. Completed JavaScript Modules lesson.

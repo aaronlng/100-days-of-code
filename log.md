@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 36: June 5, 2020
+
+**Today's Progress**: Worked through Codecademy's seventh module Intermediate JavaScript. Completed debugging JavaScript code lesson. Learned about error handling utilizing try...catch block. Began Find Your Hat project.
+
+**Thoughts:** Reviewing JavaScript to solidify concepts 
+
+**Link to work:** [Find Your Hat](https://www.aaronlng.dev/find-your-hat/)
+
 ## Day 35: June 4, 2020
 
 **Today's Progress**: Worked through Codecademy's seventh module Intermediate JavaScript. Completed WorkAround project. Completed JavaScript Modules lesson.
