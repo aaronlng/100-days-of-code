@@ -4,6 +4,10 @@ The log of my #100DaysOfCode challenge, started on Friday, May 1, 2020.
 
 ## Log
 
+### R1D35
+
+Worked through Codecademy's seventh module Intermediate JavaScript. Completed WorkAround project. Completed JavaScript Modules lesson.
+
 ### R1D34
 
 Worked through Codecademy's seventh module Intermediate JavaScript. Learned about JavaScript Modules and import/export. Completed Message Mixer project.

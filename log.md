@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 35: June 4, 2020
+
+**Today's Progress**: Worked through Codecademy's seventh module Intermediate JavaScript. Completed WorkAround project. Completed JavaScript Modules lesson.
+
+**Thoughts:** Reviewing JavaScript to solidify concepts 
+
+**Link to work:** [Message Mixer](https://www.aaronlng.dev/work-around/)
+
 ## Day 34: June 3, 2020
 
 **Today's Progress**: Worked through Codecademy's seventh module Intermediate JavaScript. Learned about JavaScript Modules and import/export. Completed Message Mixer project.
