@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 38: June 7, 2020
+
+**Today's Progress**: Worked through Codecademy's seventh module Intermediate JavaScript. Completed JavaScript Promises lesson. Worked on Find Your Hat project.
+
+**Thoughts:** Reviewing JavaScript to solidify concepts 
+
+**Link to work:** [Find Your Hat](https://www.aaronlng.dev/find-your-hat/)
+
 ## Day 37: June 6, 2020
 
 **Today's Progress**: Worked through Codecademy's seventh module Intermediate JavaScript. Learned about JavaScript Promises. Worked on Find Your Hat project.
