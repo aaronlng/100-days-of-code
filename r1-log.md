@@ -4,6 +4,10 @@ The log of my #100DaysOfCode challenge, started on Friday, May 1, 2020.
 
 ## Log
 
+### R1D40
+
+Worked through Codecademy's seventh module Intermediate JavaScript. Began HTTP Requests lesson. Set up Wanderlust project.
+
 ### R1D39
 
 Worked through Codecademy's seventh module Intermediate JavaScript. Completed JavaScript Async/Await lesson. Continued with find your hat project.

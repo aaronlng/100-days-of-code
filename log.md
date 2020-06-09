@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 40: June 9, 2020
+
+**Today's Progress**: Worked through Codecademy's seventh module Intermediate JavaScript. Began HTTP Requests lesson. Set up Wanderlust project.
+
+**Thoughts:** Reviewing JavaScript to solidify concepts 
+
+**Link to work:** [Wanderlust](https://www.aaronlng.dev/wanderlust/)
+
 ## Day 39: June 8, 2020
 
 **Today's Progress**: Worked through Codecademy's seventh module Intermediate JavaScript. Completed JavaScript Async/Await lesson. Continued with find your hat project.
