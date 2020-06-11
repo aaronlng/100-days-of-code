@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 42: June 11, 2020
+
+**Today's Progress**: Worked through Codecademy's seventh module Intermediate JavaScript. Completed Wanderlust project.
+
+**Thoughts:** Reviewing JavaScript to solidify concepts 
+
+**Link to work:** [Wanderlust](https://www.aaronlng.dev/wanderlust/)
+
 ## Day 41: June 10, 2020
 
 **Today's Progress**: Worked through Codecademy's seventh module Intermediate JavaScript. Completed HTTP Requests lesson. Worked on Wanderlust project.
