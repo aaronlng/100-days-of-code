@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 44: June 13, 2020
+
+**Today's Progress**: Worked through Codecademy's eigth module Learn the Command Line. Learned about configuring the environment and bash scripting. 
+
+**Thoughts:** Reviewing JavaScript to solidify concepts 
+
+**Link to work:** N/A
+
 ## Day 43: June 12, 2020
 
 **Today's Progress**: Worked through Codecademy's eigth module Learn the Command Line. Learned about navigating the file system, viewing and changing the file system, and redirecting input and output.
