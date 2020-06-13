@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 43: June 12, 2020
+
+**Today's Progress**: Worked through Codecademy's eigth module Learn the Command Line. Learned about navigating the file system, viewing and changing the file system, and redirecting input and output.
+
+**Thoughts:** Reviewing JavaScript to solidify concepts 
+
+**Link to work:** [Wanderlust](https://www.aaronlng.dev/wanderlust/)
+
 ## Day 42: June 11, 2020
 
 **Today's Progress**: Worked through Codecademy's seventh module Intermediate JavaScript. Completed Wanderlust project.

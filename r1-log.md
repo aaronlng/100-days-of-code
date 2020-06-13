@@ -4,6 +4,10 @@ The log of my #100DaysOfCode challenge, started on Friday, May 1, 2020.
 
 ## Log
 
+### R1D43
+
+Worked through Codecademy's eigth module Learn the Command Line. Learned about navigating the file system, viewing and changing the file system, and redirecting input and output.
+
 ### R1D42
 
 Worked through Codecademy's seventh module Intermediate JavaScript. Completed Wanderlust project.
