@@ -4,6 +4,10 @@ The log of my #100DaysOfCode challenge, started on Friday, May 1, 2020.
 
 ## Log
 
+### R1D45
+
+Worked through Codecademy's eigth module Learn the Command Line. Continued learning about bash scripting. Began working on Build a Script project.
+
 ### R1D44
 
 Worked through Codecademy's eigth module Learn the Command Line. Learned about configuring the environment and bash scripting.

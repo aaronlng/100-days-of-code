@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 45: June 14, 2020
+
+**Today's Progress**: Worked through Codecademy's eigth module Learn the Command Line. Continued learning about bash scripting. Began working on Build a Script project.
+
+**Thoughts:** Reviewing JavaScript to solidify concepts 
+
+**Link to work:** N/A
+
 ## Day 44: June 13, 2020
 
 **Today's Progress**: Worked through Codecademy's eigth module Learn the Command Line. Learned about configuring the environment and bash scripting. 
