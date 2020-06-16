@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 46: June 15, 2020
+
+**Today's Progress**: Finished Codecademy's eighth module Learn the Command Line. Completed Build a Script project. Worked through Codecademy's ninth module Learn Git. Completed Basic Git Workflow.
+
+**Thoughts:** Reviewing Git/Github to solidify concepts 
+
+**Link to work:** https://github.com/aaronlng/git_practice
+
 ## Day 45: June 14, 2020
 
 **Today's Progress**: Worked through Codecademy's eigth module Learn the Command Line. Continued learning about bash scripting. Began working on Build a Script project.
