@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 47: June 16, 2020
+
+**Today's Progress**: Completed Codecademy's ninth module Learn Git. Solidified concept of git branching and git teamwork utilizing fetch and merging.
+
+**Thoughts:** Reviewing Git/Github to solidify concepts 
+
+**Link to work:** N/A
+
 ## Day 46: June 15, 2020
 
 **Today's Progress**: Finished Codecademy's eighth module Learn the Command Line. Completed Build a Script project. Worked through Codecademy's ninth module Learn Git. Completed Basic Git Workflow.
