@@ -4,6 +4,10 @@ The log of my #100DaysOfCode challenge, started on Friday, May 1, 2020.
 
 ## Log
 
+### R1D48
+
+Worked through Codecademy's tenth module Building Front-end Applications with React. Learned about browser compatability and transpiliation utilizing Babel.
+
 ### R1D47
 
 Completed Codecademy's ninth module Learn Git. Solidified concept of git branching and git teamwork utilizing fetch and merging.

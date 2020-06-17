@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 48: June 17, 2020
+
+**Today's Progress**: Worked through Codecademy's tenth module Building Front-end Applications with React. Learned about browser compatability and transpiliation utilizing Babel.
+
+**Thoughts:** Learning about front-end development and React. 
+
+**Link to work:** N/A
+
 ## Day 47: June 16, 2020
 
 **Today's Progress**: Completed Codecademy's ninth module Learn Git. Solidified concept of git branching and git teamwork utilizing fetch and merging.
