@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 49: June 18, 2020
+
+**Today's Progress**: Worked through Codecademy's tenth module Building Front-end Applications with React. Completed Intro to JSX.
+
+**Thoughts:** Learning about front-end development and React. 
+
+**Link to work:** N/A
+
 ## Day 48: June 17, 2020
 
 **Today's Progress**: Worked through Codecademy's tenth module Building Front-end Applications with React. Learned about browser compatability and transpiliation utilizing Babel.
