@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 51: June 20, 2020
+
+**Today's Progress**: Worked through Codecademy's tenth module Building Front-end Applications with React. Finished advanced JSX lesson. Started learning about components in React.
+
+**Thoughts:** Learning about front-end development and React. 
+
+**Link to work:** N/A
+
 ## Day 50: June 19, 2020
 
 **Today's Progress**: Worked through Codecademy's tenth module Building Front-end Applications with React. Began working through advanced JSX lesson.
