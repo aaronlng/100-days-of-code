@@ -1,6 +1,14 @@
 # 100 Days Of Code - Log
 
-## Day 52: June 20, 2020
+## Day 53: June 22, 2020
+
+**Today's Progress**: Worked through Codecademy's tenth module Building Front-end Applications with React. Continued working through advanced JSX lesson.
+ 
+**Thoughts:** Learning about front-end development and React. 
+
+**Link to work:** N/A
+
+## Day 52: June 21, 2020
 
 **Today's Progress**: Worked through Codecademy's tenth module Building Front-end Applications with React. Finished components in React lesson. Began working through advanced JSX lesson.
  
