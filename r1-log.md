@@ -4,6 +4,10 @@ The log of my #100DaysOfCode challenge, started on Friday, May 1, 2020.
 
 ## Log
 
+### R1D54
+
+Worked through Codecademy's tenth module Building Front-end Applications with React. Continued working through advanced JSX lesson. Learned about rendering conditional logic in class components.
+
 ### R1D53
 
 Worked through Codecademy's tenth module Building Front-end Applications with React. Continued working through advanced JSX lesson.

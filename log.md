@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 54: June 23, 2020
+
+**Today's Progress**: Worked through Codecademy's tenth module Building Front-end Applications with React. Continued working through advanced JSX lesson. Learned about rendering conditional logic in class components.
+ 
+**Thoughts:** Learning about front-end development and React. 
+
+**Link to work:** N/A
+
 ## Day 53: June 22, 2020
 
 **Today's Progress**: Worked through Codecademy's tenth module Building Front-end Applications with React. Continued working through advanced JSX lesson.
