@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 56: June 25, 2020
+
+**Today's Progress**: Worked through Codecademy's tenth module Building Front-end Applications with React. Began working on Authorization Form Project.
+ 
+**Thoughts:** Learning about front-end development and React. 
+
+**Link to work:** N/A
+
 ## Day 55: June 24, 2020
 
 **Today's Progress**: Worked through Codecademy's tenth module Building Front-end Applications with React. Completed advanced JSX lesson.

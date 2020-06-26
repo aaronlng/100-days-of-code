@@ -4,6 +4,10 @@ The log of my #100DaysOfCode challenge, started on Friday, May 1, 2020.
 
 ## Log
 
+### R1D56
+
+Worked through Codecademy's tenth module Building Front-end Applications with React. Began working on Authorization Form Project.
+
 ### R1D55
 
 Worked through Codecademy's tenth module Building Front-end Applications with React. Completed advanced JSX lesson.
