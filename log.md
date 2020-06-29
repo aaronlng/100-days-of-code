@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 59: June 28, 2020
+
+**Today's Progress**: Worked through Codecademy's tenth module Building Front-end Applications with React. Learned how to create a React app.
+ 
+**Thoughts:** Learning about front-end development and React. 
+
+**Link to work:** N/A
+
 ## Day 58: June 27, 2020
 
 **Today's Progress**: Worked through Codecademy's tenth module Building Front-end Applications with React. Completed Authorization Form Project. Completed React Components Lesson.
