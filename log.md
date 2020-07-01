@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 61: June 30, 2020
+
+**Today's Progress**: Worked through Codecademy's tenth module Building Front-end Applications with React. Continued working on Ravenous project with create-react-app.
+ 
+**Thoughts:** Learning about front-end development and React. 
+
+**Link to work:** N/A
+
 ## Day 60: June 29, 2020
 
 **Today's Progress**: Worked through Codecademy's tenth module Building Front-end Applications with React. Began working on Ravenous project with create-react-app.
