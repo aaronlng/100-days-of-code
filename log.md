@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 66: July 5, 2020
+
+**Today's Progress**: Worked through Codecademy's tenth module Building Front-end Applications with React. Completed Random Color Generator Project. Continued working on Ravenous project part 2.
+ 
+**Thoughts:** Learning about front-end development and React. 
+
+**Link to work:** N/A
+
 ## Day 65: July 4, 2020
 
 **Today's Progress**: Worked through Codecademy's tenth module Building Front-end Applications with React. Continued working on 2nd part of Ravenous project. Worked through lesson on React State.
