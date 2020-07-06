@@ -4,6 +4,10 @@ The log of my #100DaysOfCode challenge, started on Friday, May 1, 2020.
 
 ## Log
 
+### R1D67
+
+Worked through Codecademy's tenth module Building Front-end Applications with React. Finished Ravenous project part 2.
+
 ### R1D66
 
 Worked through Codecademy's tenth module Building Front-end Applications with React. Completed Random Color Generator Project. Continued working on Ravenous project part 2.
