@@ -4,6 +4,10 @@ The log of my #100DaysOfCode challenge, started on Friday, May 1, 2020.
 
 ## Log
 
+### R1D68
+
+Worked through Codecademy's tenth module Building Front-end Applications with React. Learned about stateful and stateless components. Worked on Ravenous part 3.
+
 ### R1D67
 
 Worked through Codecademy's tenth module Building Front-end Applications with React. Finished Ravenous project part 2.

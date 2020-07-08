@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 68: July 7, 2020
+
+**Today's Progress**: Worked through Codecademy's tenth module Building Front-end Applications with React. Learned about stateful and stateless components. Worked on Ravenous part 3.
+ 
+**Thoughts:** Learning about front-end development and React. 
+
+**Link to work:** N/A
+
 ## Day 67: July 6, 2020
 
 **Today's Progress**: Worked through Codecademy's tenth module Building Front-end Applications with React. Finished Ravenous project part 2.
