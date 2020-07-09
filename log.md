@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 70: July 9, 2020
+
+**Today's Progress**: Worked through Codecademy's tenth module Building Front-end Applications with React. Finished Ravenous part 3.
+ 
+**Thoughts:** Learning about front-end development and React. 
+
+**Link to work:** N/A
+
 ## Day 69: July 8, 2020
 
 **Today's Progress**: Worked through Codecademy's tenth module Building Front-end Applications with React. Continued working on Ravenous part 3.
