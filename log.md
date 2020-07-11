@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+## Day 72: July 11, 2020
+
+**Today's Progress**: Worked through Codecademy's tenth module Building Front-end Applications with React. Learned about authentication and Oauth. Completed Ravenous part 4.
+ 
+**Thoughts:** Learning about front-end development and React. 
+
+**Link to work:** N/A
+
+
 ## Day 71: July 10, 2020
 
 **Today's Progress**: Worked through Codecademy's tenth module Building Front-end Applications with React. Learned about authentication and Oauth. Began Ravenous part 4.

@@ -4,6 +4,10 @@ The log of my #100DaysOfCode challenge, started on Friday, May 1, 2020.
 
 ## Log
 
+### R1D72
+
+Worked through Codecademy's tenth module Building Front-end Applications with React. Learned about authentication and Oauth. Completed Ravenous part 4.
+
 ### R1D71
 
 Worked through Codecademy's tenth module Building Front-end Applications with React. Learned about authentication and Oauth. Began Ravenous part 4.
