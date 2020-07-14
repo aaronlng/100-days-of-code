@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 74: July 13, 2020
+
+**Today's Progress**: Worked through Codecademy's tenth module Building Front-end Applications with React. Continued learning about styling in React.
+
+**Thoughts:** Learning about front-end development and React. 
+
+**Link to work:** N/A
+
 ## Day 73: July 12, 2020
 
 **Today's Progress**: Worked through Codecademy's tenth module Building Front-end Applications with React. Learned about styling in React.
