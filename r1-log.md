@@ -4,6 +4,10 @@ The log of my #100DaysOfCode challenge, started on Friday, May 1, 2020.
 
 ## Log
 
+### R1D75
+
+Worked through Codecademy's tenth module Building Front-end Applications with React. Began learning about separating container components from presentational components.
+
 ### R1D74
 
 Worked through Codecademy's tenth module Building Front-end Applications with React. Continued learning about styling in React.
