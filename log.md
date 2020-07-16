@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 76: July 15, 2020
+
+**Today's Progress**: Worked through Codecademy's tenth module Building Front-end Applications with React. Finished lesson about separating container components from presentational components.
+
+**Thoughts:** Learning about front-end development and React. 
+
+**Link to work:** N/A
+
 ## Day 75: July 14, 2020
 
 **Today's Progress**: Worked through Codecademy's tenth module Building Front-end Applications with React. Began learning about separating container components from presentational components.
