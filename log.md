@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 78: July 17, 2020
+
+**Today's Progress**: Worked through Codecademy's tenth module Building Front-end Applications with React.Finished lesson on stateless components.
+
+**Thoughts:** Learning about front-end development and React. 
+
+**Link to work:** N/A
+
 ## Day 77: July 16, 2020
 
 **Today's Progress**: Worked through Codecademy's tenth module Building Front-end Applications with React. Began learning about stateless components.
