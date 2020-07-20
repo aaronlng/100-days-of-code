@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 80: July 19, 2020
+
+**Today's Progress**: Worked through Codecademy's tenth module Building Front-end Applications with React. Continued learning about propTypes.
+
+**Thoughts:** Learning about front-end development and React. 
+
+**Link to work:** N/A
+
 ## Day 79: July 18, 2020
 
 **Today's Progress**: Worked through Codecademy's tenth module Building Front-end Applications with React. Began learning about propTypes.
