@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 84: July 23, 2020
+
+**Today's Progress**: Worked through Codecademy's tenth module Building Front-end Applications with React. Completed React forms lesson. Continued learning about lifecycle methods.
+
+**Thoughts:** Learning about front-end development and React. 
+
+**Link to work:** N/A
+
 ## Day 83: July 22, 2020
 
 **Today's Progress**: Worked through Codecademy's tenth module Building Front-end Applications with React. Completed React forms lesson. Began learning about lifecycle methods.
