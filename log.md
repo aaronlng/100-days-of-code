@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 87: July 26, 2020
+
+**Today's Progress**: Worked through Codecademy's tenth module Building Front-end Applications with React. Began working on Jamming Project.
+
+**Thoughts:** Learning about front-end development and React. 
+
+**Link to work:** N/A
+
 ## Day 86: July 25, 2020
 
 **Today's Progress**: Worked through Codecademy's tenth module Building Front-end Applications with React. Completed React forms lesson. Completed lifecycle methods lesson.
