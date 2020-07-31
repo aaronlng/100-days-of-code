@@ -1,5 +1,21 @@
 # 100 Days Of Code - Log
 
+## Day 91: July 30, 2020
+
+**Today's Progress**: Worked through Codecademy's tenth module Building Front-end Applications with React. Continued learning about manual and automated testing.
+
+**Thoughts:** Learning about front-end development and React. 
+
+**Link to work:** N/A
+
+## Day 90: July 29, 2020
+
+**Today's Progress**: Worked through Codecademy's tenth module Building Front-end Applications with React. Began learning about manual and automated testing.
+
+**Thoughts:** Learning about front-end development and React. 
+
+**Link to work:** N/A
+
 ## Day 89: July 28, 2020
 
 **Today's Progress**: Worked through Codecademy's tenth module Building Front-end Applications with React. Continued working on Jammming Project.
