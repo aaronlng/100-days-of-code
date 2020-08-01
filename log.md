@@ -1,5 +1,21 @@
 # 100 Days Of Code - Log
 
+## Day 93: August 1, 2020
+
+**Today's Progress**: Continued working on the basic algorithm lesson on FreeCodeCamp.
+
+**Thoughts:** Working on improving logic and algorithm skills.
+
+**Link to work:** N/A
+
+## Day 92: July 31, 2020
+
+**Today's Progress**: CodeCademy Pro membership ended. Began working in FreeCodeCamp again, working on the basic algorithm lesson.
+
+**Thoughts:** Working on improving logic and algorithm skills.
+
+**Link to work:** N/A
+
 ## Day 91: July 30, 2020
 
 **Today's Progress**: Worked through Codecademy's tenth module Building Front-end Applications with React. Continued learning about manual and automated testing.
