@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 99: August 7, 2020
+
+**Today's Progress**: Continued working on the basic algorithm lessons on FreeCodeCamp. Slowly but surely making my way through them.
+
+**Thoughts:** Working on improving logic and algorithm skills.
+
+**Link to work:** N/A
+
 ## Day 98: August 6, 2020
 
 **Today's Progress**: Continued working on the basic algorithm lessons on FreeCodeCamp. Slowly but surely making my way through them.
