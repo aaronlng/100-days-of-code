@@ -4,6 +4,10 @@ The log of my #100DaysOfCode challenge, started on Friday, May 1, 2020.
 
 ## Log
 
+### R1D99
+
+Continued working on the basic algorithm lessons on FreeCodeCamp. Slowly but surely making my way through them.
+
 ### R1D98
 
 Continued working on the basic algorithm lessons on FreeCodeCamp. Slowly but surely making my way through them.
